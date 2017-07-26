@@ -1,0 +1,302 @@
+﻿ <countries>
+    <country code="AD" isoCode="AD">
+      <description>Andorra</description>
+    </country>
+    <country code="AE" isoCode="AE">
+      <description>United Arab Emirates</description>
+    </country>
+    <country code="AG" isoCode="AG">
+      <description>Antigua &amp; Barbuda</description>
+    </country>
+    <country code="AI" isoCode="AI">
+      <description>Anguilla</description>
+    </country>
+    <country code="AL" isoCode="AL">
+      <description>Albania</description>
+    </country>
+    <country code="AM" isoCode="AM">
+      <description>Armenia</description>
+    </country>
+    <country code="AO" isoCode="AO">
+      <description>Angola</description>
+    </country>
+    <country code="AR" isoCode="AR">
+      <description>Argentina</description>
+    </country>
+    <country code="AT" isoCode="AT">
+      <description>Austria</description>
+    </country>
+    <country code="AU" isoCode="AU">
+      <description>Australia</description>
+    </country>
+    <country code="AW" isoCode="AW">
+      <description>Aruba</description>
+    </country>
+    <country code="AZ" isoCode="AZ">
+      <description>Azerbaijan</description>
+    </country>
+    <country code="BA" isoCode="BA">
+      <description>Bosnia &amp; Herzegovina</description>
+    </country>
+    <country code="BB" isoCode="BB">
+      <description>Barbados</description>
+    </country>
+    <country code="BD" isoCode="BD">
+      <description>Bangladesh</description>
+    </country>
+    <country code="BE" isoCode="BE">
+      <description>Belgium</description>
+    </country>
+    <country code="BF" isoCode="BF">
+      <description>Burkina Faso</description>
+    </country>
+    <country code="BG" isoCode="BG">
+      <description>Bulgaria</description>
+    </country>
+    <country code="BH" isoCode="BH">
+      <description>Bahrain</description>
+    </country>
+    <country code="BI" isoCode="BI">
+      <description>Burundi</description>
+    </country>
+    <country code="BJ" isoCode="BJ">
+      <description>Benin</description>
+    </country>
+    <country code="BK" isoCode="BQ">
+      <description>Caribbean Netherlands</description>
+    </country>
+    <country code="BL" isoCode="BL">
+      <description>St. Barthélemy</description>
+    </country>
+    <country code="BM" isoCode="BM">
+      <description>Bermuda</description>
+    </country>
+    <country code="BN" isoCode="BN">
+      <description>Brunei</description>
+    </country>
+    <country code="BO" isoCode="BO">
+      <description>Bolivia</description>
+    </country>
+    <country code="BR" isoCode="BR">
+      <description>Brazil</description>
+    </country>
+    <country code="BS" isoCode="BS">
+      <description>Bahamas</description>
+    </country>
+    <country code="BW" isoCode="BW">
+      <description>Botswana</description>
+    </country>
+    <country code="BY" isoCode="BY">
+      <description>Belarus</description>
+    </country>
+    <country code="BZ" isoCode="BZ">
+      <description>Belize</description>
+    </country>
+    <country code="C0" isoCode="CW">
+      <description>Curaçao</description>
+    </country>
+    <country code="CA" isoCode="CA">
+      <description>Canada</description>
+    </country>
+    <country code="CD" isoCode="CD">
+      <description>Congo (DRC)</description>
+    </country>
+    <country code="CF" isoCode="CF">
+      <description>Central African Republic</description>
+    </country>
+    <country code="CG" isoCode="CG">
+      <description>Congo - Brazzaville</description>
+    </country>
+    <country code="CH" isoCode="CH">
+      <description>Switzerland</description>
+    </country>
+    <country code="CI" isoCode="CI">
+      <description>Ivory Coast</description>
+    </country>
+    <country code="CK" isoCode="CK">
+      <description>Cook Islands</description>
+    </country>
+    <country code="CL" isoCode="CL">
+      <description>Chile</description>
+    </country>
+    <country code="CM" isoCode="CM">
+      <description>Cameroon</description>
+    </country>
+    <country code="CN" isoCode="CN">
+      <description>China</description>
+    </country>
+    <country code="CO" isoCode="CO">
+      <description>Colombia</description>
+    </country>
+    <country code="CR" isoCode="CR">
+      <description>Costa Rica</description>
+    </country>
+    <country code="CU" isoCode="CU">
+      <description>Cuba</description>
+    </country>
+    <country code="CV" isoCode="CV">
+      <description>Cape Verde</description>
+    </country>
+    <country code="CY" isoCode="CY">
+      <description>Cyprus</description>
+    </country>
+    <country code="CZ" isoCode="CZ">
+      <description>Czech Republic</description>
+    </country>
+    <country code="DE" isoCode="DE">
+      <description>Germany</description>
+    </country>
+    <country code="DJ" isoCode="DJ">
+      <description>Djibouti</description>
+    </country>
+    <country code="DK" isoCode="DK">
+      <description>Denmark</description>
+    </country>
+    <country code="DO" isoCode="DO">
+      <description>Dominican Republic</description>
+    </country>
+    <country code="DZ" isoCode="DZ">
+      <description>Algeria</description>
+    </country>
+    <country code="EC" isoCode="EC">
+      <description>Ecuador</description>
+    </country>
+    <country code="EE" isoCode="EE">
+      <description>Estonia</description>
+    </country>
+    <country code="EG" isoCode="EG">
+      <description>Egypt</description>
+    </country>
+    <country code="ES" isoCode="ES">
+      <description>Spain</description>
+    </country>
+    <country code="ET" isoCode="ET">
+      <description>Ethiopia</description>
+    </country>
+    <country code="FI" isoCode="FI">
+      <description>Finland</description>
+    </country>
+    <country code="FJ" isoCode="FJ">
+      <description>Fiji</description>
+    </country>
+    <country code="FO" isoCode="FO">
+      <description>Faroe Islands</description>
+    </country>
+    <country code="FR" isoCode="FR">
+      <description>France</description>
+    </country>
+    <country code="GA" isoCode="GA">
+      <description>Gabon</description>
+    </country>
+    <country code="GD" isoCode="GD">
+      <description>Grenada</description>
+    </country>
+    <country code="GE" isoCode="GE">
+      <description>Georgia</description>
+    </country>
+    <country code="GH" isoCode="GH">
+      <description>Ghana</description>
+    </country>
+    <country code="GI" isoCode="GI">
+      <description>Gibraltar</description>
+    </country>
+    <country code="GM" isoCode="GM">
+      <description>Gambia</description>
+    </country>
+    <country code="GN" isoCode="GN">
+      <description>Guinea</description>
+    </country>
+    <country code="GP" isoCode="GP">
+      <description>Guadeloupe</description>
+    </country>
+    <country code="GQ" isoCode="GQ">
+      <description>Equatorial Guinea</description>
+    </country>
+    <country code="GR" isoCode="GR">
+      <description>Greece</description>
+    </country>
+    <country code="GT" isoCode="GT">
+      <description>Guatemala</description>
+    </country>
+    <country code="GU" isoCode="GU">
+      <description>Guam</description>
+    </country>
+    <country code="GW" isoCode="GW">
+      <description>Guinea-Bissau</description>
+    </country>
+    <country code="GY" isoCode="GY">
+      <description>Guyana</description>
+    </country>
+    <country code="HK" isoCode="HK">
+      <description>Hong Kong</description>
+    </country>
+    <country code="HN" isoCode="HN">
+      <description>Honduras</description>
+    </country>
+    <country code="HR" isoCode="HR">
+      <description>Croatia</description>
+    </country>
+    <country code="HT" isoCode="HT">
+      <description>Haiti</description>
+    </country>
+    <country code="HU" isoCode="HU">
+      <description>Hungary</description>
+    </country>
+    <country code="ID" isoCode="ID">
+      <description>Indonesia</description>
+    </country>
+    <country code="IE" isoCode="IE">
+      <description>Ireland</description>
+    </country>
+    <country code="IL" isoCode="IL">
+      <description>Israel</description>
+    </country>
+    <country code="IN" isoCode="IN">
+      <description>India</description>
+    </country>
+    <country code="IR" isoCode="IR">
+      <description>Iran</description>
+    </country>
+    <country code="IS" isoCode="IS">
+      <description>Iceland</description>
+    </country>
+    <country code="IT" isoCode="IT">
+      <description>Italy</description>
+    </country>
+    <country code="JM" isoCode="JM">
+      <description>Jamaica</description>
+    </country>
+    <country code="JO" isoCode="JO">
+      <description>Jordan</description>
+    </country>
+    <country code="JP" isoCode="JP">
+      <description>Japan</description>
+    </country>
+    <country code="KE" isoCode="KE">
+      <description>Kenya</description>
+    </country>
+    <country code="KG" isoCode="KG">
+      <description>Kyrgyzstan</description>
+    </country>
+    <country code="KH" isoCode="KH">
+      <description>Cambodia</description>
+    </country>
+    <country code="KM" isoCode="KM">
+      <description>Comoros</description>
+    </country>
+    <country code="KN" isoCode="KN">
+      <description>St. Kitts &amp; Nevis</description>
+    </country>
+    <country code="KR" isoCode="KR">
+      <description>South Korea</description>
+    </country>
+    <country code="KV" isoCode="SR">
+      <description>Kosovo</description>
+    </country>
+    <country code="KW" isoCode="KW">
+      <description>Kuwait</description>
+    </country>
+    <country code="KY" isoCode="KY">
+      <description>Cayman Islands</description>
+    </country>
+  </countries>

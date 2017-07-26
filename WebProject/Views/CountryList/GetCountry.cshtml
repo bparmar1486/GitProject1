@@ -1,0 +1,48 @@
+﻿@using WebProject.Models
+@model IEnumerable<WebProject.Models.CountryModel>
+
+@{
+    ViewBag.Title = "GetCountry";
+}
+
+<br />
+
+@using (Html.BeginForm("GetCountry", "CountryList", null))
+{
+
+    <input type="submit" value="Get Country List" class="myButton" />
+}
+
+
+
+
+<br />
+@if (ViewBag.Country != null)
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>SUP Country</th>
+                <th>SUP ID</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (CountryModel country in Model)
+            {
+                <tr>
+
+                    <td>@country.Name</td>
+                    <td>@country.CountryCode</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+
+
+}
+
+
+
