@@ -8,5 +8,5 @@ namespace BusinessLogic
 {
     class Class2
     {
-    }
+    }    
 }
