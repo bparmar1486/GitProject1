@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="Class2.cs" />
     <Compile Include="Country.cs">
       <DependentUpon>TravelDataModel.tt</DependentUpon>
     </Compile>
