@@ -8,6 +8,6 @@ namespace BusinessLogic
 {
     class Class2
     {
-        int i = 0;
+        int i = 0; 
     }    
 }
